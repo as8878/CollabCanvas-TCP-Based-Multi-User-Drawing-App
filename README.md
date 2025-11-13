@@ -1,4 +1,4 @@
-### Collab Canvas - TCP based Multi-user Drawing App
+# Collab Canvas - TCP based Multi-user Drawing App
 
 ## To run the application over a local network
 1. Start the server with the below command:   
